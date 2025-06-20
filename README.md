@@ -1,9 +1,4 @@
 # **Hello World! I'm Sudheer Kumar Tatavalu 👋**
-
-<div align="left">
-
-<img src="https://github.com/SudheerKumarTatavalu/SudheerKumarTatavalu/blob/main/ChatGPT%20Image%20Jun%2019%2C%202025%2C%2011_57_11%20PM.png" width="300" height="300" alt="Sudheer Kumar Tatavalu" style="border-radius: 50%; float: left; margin-right: 20px; margin-bottom: 20px;" />
-  </div>
   
 ## **About Me**
 A passionate Machine Learning Engineer and NLP specialist who transforms complex language problems into intelligent solutions. I architect end-to-end ML systems, from research and experimentation to production deployment, with expertise in deep learning, natural language processing, and MLOps.
